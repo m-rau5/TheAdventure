@@ -17,3 +17,7 @@ Added player/bomb collision for hitboxes
 
 Fixed assets retrieval and bomb behaviour.
 Added ClearResources function and support for opacity + layers.
+
+## Demo:
+
+<img src="Assets/demo.gif">
